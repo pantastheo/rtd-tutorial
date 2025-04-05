@@ -1,19 +1,16 @@
-Welcome to Lumache's documentation!
+Welcome to Cardiac Gene2Phenotype Gene Panel documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Overview
+*CardiacG2P* is an evidence-based dataset for inherited cardiac condition gene disease pairs. Each entry annotates a disease-associated gene with information about the gene-disease relationship, including the inheritance mode and allelic requirement, information pertaining to disease mechanism (represented as a disease-associated variant consequence), and known disease-relevant variant classes at a defined locus.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This dataset is also available through `G2P <https://www.ebi.ac.uk/gene2phenotype>`_
 
 .. note::
 
    This project is under active development.
 
-   Lumache hosts its documentation on Read the Docs.
+   Cardiac G2P hosts its documentation on Read the Docs.
 
 Contents
 --------
