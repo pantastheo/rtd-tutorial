@@ -1,5 +1,5 @@
-Welcome to Cardiac Gene2Phenotype Gene Panel documentation!
-===========================================================
+Cardiac Gene2Phenotype Gene Panel
+=================================
 
 Contents
 --------
