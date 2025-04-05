@@ -10,3 +10,9 @@ This dataset is also available through `G2P <https://www.ebi.ac.uk/gene2phenotyp
    This project is under active development.
 
    Cardiac G2P hosts its documentation on Read the Docs.
+
+Citation
+========
+
+Josephs, K.S., Roberts, A.M., Theotokis, P. et al. Beyond gene-disease validity: capturing structured data on inheritance, allelic requirement, disease-relevant variant classes, and disease mechanism for inherited cardiac conditions. Genome Med 15, 86 (2023). 
+`https://doi.org/10.1186/s13073-023-01246-8 <https://doi.org/10.1186/s13073-023-01246-8>_
