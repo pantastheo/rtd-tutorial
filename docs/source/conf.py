@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Gene2henotype Cardiac panel'
+project = 'Cardiac Gene2Phenotype Gene Panel'
 copyright = '2025, Imperial'
 author = 'Kat, J.'
 
