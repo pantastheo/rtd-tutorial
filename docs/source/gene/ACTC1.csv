@@ -1,25 +1,25 @@
-Gene symbol,ACTC1
-Gene mim,102540
-Indication,HCM
-Referral indication,Hypertrophic Cardiomyopathy (HCM)
-Disease grouping,Familial hypertrophic cardiomyopathy
-Disease name,ACTC1-related Hypertrophic cardiomyopathy
-Gene disease validity (ClinGen),definitive
-Allelic requirement,monoallelic_autosomal
-Inheritance,Autosomal dominant
-Inheritance modifiers,NA
-Disease-associated variant consequence,altered gene product sequence
-mechanism,NA
-mutation consequence flag,NA
-Restricted repertoire of pathogenic variants,NA
-Variant classes reported with evidence of pathogenicity,missense_variant;inframe_deletion
-pmids,10966831;20031618;17611253;28972856;27532257;26061005;10330430;28007147;23604709
-Disease accession,MONDO:0012799
-Curated date,10.10.2021
-Expert panel review date,10.11.2021
-Expert panel,Cardiomyopathy expert panel
-organ specificity list,Heart/Cardiovasculature/Lymphatic
-panel,Cardiac
-prev symbols,ACTC
-hgnc id,143
-g2p gene disease pair entry date,2022-04-25T12:45:00Z
+"Gene symbol","ACTC1"
+"Gene mim","102540"
+"Indication","HCM"
+"Referral indication","Hypertrophic Cardiomyopathy (HCM)"
+"Disease grouping","Familial hypertrophic cardiomyopathy"
+"Disease name","ACTC1-related Hypertrophic cardiomyopathy"
+"Gene disease validity (ClinGen)","definitive"
+"Allelic requirement","monoallelic_autosomal"
+"Inheritance","Autosomal dominant"
+"Inheritance modifiers","NA"
+"Disease-associated variant consequence","altered gene product sequence"
+"mechanism","NA"
+"mutation consequence flag","NA"
+"Restricted repertoire of pathogenic variants","NA"
+"Variant classes reported with evidence of pathogenicity","missense_variant;inframe_deletion"
+"pmids","10966831;20031618;17611253;28972856;27532257;26061005;10330430;28007147;23604709"
+"Disease accession","MONDO:0012799"
+"Curated date","10.10.2021"
+"Expert panel review date","10.11.2021"
+"Expert panel","Cardiomyopathy expert panel"
+"organ specificity list","Heart/Cardiovasculature/Lymphatic"
+"panel","Cardiac"
+"prev symbols","ACTC"
+"hgnc id","143"
+"g2p gene disease pair entry date","2022-04-25T12:45:00Z"

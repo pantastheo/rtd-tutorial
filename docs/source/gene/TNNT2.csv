@@ -1,25 +1,25 @@
-Gene symbol,TNNT2
-Gene mim,191045
-Indication,DCM
-Referral indication,Dilated Cardiomyopathy (DCM)
-Disease grouping,Familial dilated cardiomyopathy
-Disease name,TNNT2-related Dilated cardiomyopathy
-Gene disease validity (ClinGen),definitive
-Allelic requirement,monoallelic_autosomal
-Inheritance,Autosomal dominant
-Inheritance modifiers,NA
-Disease-associated variant consequence,altered gene product sequence
-mechanism,NA
-mutation consequence flag,NA
-Restricted repertoire of pathogenic variants,NA
-Variant classes reported with evidence of pathogenicity,missense_variant
-pmids,11106718;29367541;27532257;15542288;20978592;20031601
-Disease accession,MONDO:0007267
-Curated date,31.03.2021
-Expert panel review date,08.12.2021
-Expert panel,Cardiomyopathy expert panel
-organ specificity list,Heart/Cardiovasculature/Lymphatic
-panel,Cardiac
-prev symbols,CMD1D;CMH2
-hgnc id,11949
-g2p gene disease pair entry date,2022-04-25T12:45:00Z
+"Gene symbol","TNNT2"
+"Gene mim","191045"
+"Indication","DCM"
+"Referral indication","Dilated Cardiomyopathy (DCM)"
+"Disease grouping","Familial dilated cardiomyopathy"
+"Disease name","TNNT2-related Dilated cardiomyopathy"
+"Gene disease validity (ClinGen)","definitive"
+"Allelic requirement","monoallelic_autosomal"
+"Inheritance","Autosomal dominant"
+"Inheritance modifiers","NA"
+"Disease-associated variant consequence","altered gene product sequence"
+"mechanism","NA"
+"mutation consequence flag","NA"
+"Restricted repertoire of pathogenic variants","NA"
+"Variant classes reported with evidence of pathogenicity","missense_variant"
+"pmids","11106718;29367541;27532257;15542288;20978592;20031601"
+"Disease accession","MONDO:0007267"
+"Curated date","31.03.2021"
+"Expert panel review date","08.12.2021"
+"Expert panel","Cardiomyopathy expert panel"
+"organ specificity list","Heart/Cardiovasculature/Lymphatic"
+"panel","Cardiac"
+"prev symbols","CMD1D;CMH2"
+"hgnc id","11949"
+"g2p gene disease pair entry date","2022-04-25T12:45:00Z"

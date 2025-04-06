@@ -1,25 +1,25 @@
-Gene symbol,ACTN2
-Gene mim,102573
-Indication,HCM
-Referral indication,Hypertrophic Cardiomyopathy (HCM)
-Disease grouping,Familial hypertrophic cardiomyopathy
-Disease name,ACTN2-related cardiac and skeletal myopathy
-Gene disease validity (ClinGen),definitive
-Allelic requirement,monoallelic_autosomal
-Inheritance,Autosomal dominant
-Inheritance modifiers,NA
-Disease-associated variant consequence,altered gene product sequence;decreased gene product level
-mechanism,NA
-mutation consequence flag,NA
-Restricted repertoire of pathogenic variants,NA
-Variant classes reported with evidence of pathogenicity,frameshift_variant_NMD_triggering;stop_gained_NMD_triggering;missense_variant;inframe_deletion;deletion
-pmids,34802252;34526680;20022194;25224718;25173926;30630173;31956495;31680489;17097056;27532257;31983221;33500567;32973354;30701273;30900782;38311799; 39971408
-Disease accession,MONDO:0000591
-Curated date,10.10.2024
-Expert panel review date,17.03.2025
-Expert panel,ClinGen HCVD GCEP
-organ specificity list,Heart/Cardiovasculature/Lymphatic
-panel,Cardiac
-prev symbols,NA
-hgnc id,164
-g2p gene disease pair entry date,NA
+"Gene symbol","ACTN2"
+"Gene mim","102573"
+"Indication","HCM"
+"Referral indication","Hypertrophic Cardiomyopathy (HCM)"
+"Disease grouping","Familial hypertrophic cardiomyopathy"
+"Disease name","ACTN2-related cardiac and skeletal myopathy"
+"Gene disease validity (ClinGen)","definitive"
+"Allelic requirement","monoallelic_autosomal"
+"Inheritance","Autosomal dominant"
+"Inheritance modifiers","NA"
+"Disease-associated variant consequence","altered gene product sequence;decreased gene product level"
+"mechanism","NA"
+"mutation consequence flag","NA"
+"Restricted repertoire of pathogenic variants","NA"
+"Variant classes reported with evidence of pathogenicity","frameshift_variant_NMD_triggering;stop_gained_NMD_triggering;missense_variant;inframe_deletion;deletion"
+"pmids","34802252;34526680;20022194;25224718;25173926;30630173;31956495;31680489;17097056;27532257;31983221;33500567;32973354;30701273;30900782;38311799; 39971408"
+"Disease accession","MONDO:0000591"
+"Curated date","10.10.2024"
+"Expert panel review date","17.03.2025"
+"Expert panel","ClinGen HCVD GCEP"
+"organ specificity list","Heart/Cardiovasculature/Lymphatic"
+"panel","Cardiac"
+"prev symbols","NA"
+"hgnc id","164"
+"g2p gene disease pair entry date","NA"

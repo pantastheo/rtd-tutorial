@@ -1,25 +1,25 @@
-Gene symbol,DSG2
-Gene mim,125671
-Indication,ARVC
-Referral indication,Arrhythmogenic right ventricular cardiomyopathy (ARVC)
-Disease grouping,Familial isolated arrhythmogenic cardiomyopathy
-Disease name,DSG2-related Arrhythmogenic right ventricular cardiomyopathy
-Gene disease validity (ClinGen),definitive
-Allelic requirement,monoallelic_autosomal
-Inheritance,Autosomal dominant
-Inheritance modifiers,Typified by incomplete penetrance
-Disease-associated variant consequence,altered gene product sequence;decreased gene product level
-mechanism,NA
-mutation consequence flag,NA
-Restricted repertoire of pathogenic variants,NA
-Variant classes reported with evidence of pathogenicity,splice_acceptor_variant;splice_donor_variant;frameshift_variant;stop_gained;missense_variant;inframe_deletion;inframe_insertion
-pmids,25616645;33831308;33917638;24070718;27532257;30790397;21636032;16505173;34400560;30454721;27170944;16823493
-Disease accession,MONDO:0012434
-Curated date,12.12.2021
-Expert panel review date,05.01.2022
-Expert panel,Cardiomyopathy expert panel
-organ specificity list,Heart/Cardiovasculature/Lymphatic
-panel,Cardiac
-prev symbols,NA
-hgnc id,3049
-g2p gene disease pair entry date,2022-04-25T12:45:00Z
+"Gene symbol","DSG2"
+"Gene mim","125671"
+"Indication","ARVC"
+"Referral indication","Arrhythmogenic right ventricular cardiomyopathy (ARVC)"
+"Disease grouping","Familial isolated arrhythmogenic cardiomyopathy"
+"Disease name","DSG2-related Arrhythmogenic right ventricular cardiomyopathy"
+"Gene disease validity (ClinGen)","definitive"
+"Allelic requirement","monoallelic_autosomal"
+"Inheritance","Autosomal dominant"
+"Inheritance modifiers","Typified by incomplete penetrance"
+"Disease-associated variant consequence","altered gene product sequence;decreased gene product level"
+"mechanism","NA"
+"mutation consequence flag","NA"
+"Restricted repertoire of pathogenic variants","NA"
+"Variant classes reported with evidence of pathogenicity","splice_acceptor_variant;splice_donor_variant;frameshift_variant;stop_gained;missense_variant;inframe_deletion;inframe_insertion"
+"pmids","25616645;33831308;33917638;24070718;27532257;30790397;21636032;16505173;34400560;30454721;27170944;16823493"
+"Disease accession","MONDO:0012434"
+"Curated date","12.12.2021"
+"Expert panel review date","05.01.2022"
+"Expert panel","Cardiomyopathy expert panel"
+"organ specificity list","Heart/Cardiovasculature/Lymphatic"
+"panel","Cardiac"
+"prev symbols","NA"
+"hgnc id","3049"
+"g2p gene disease pair entry date","2022-04-25T12:45:00Z"

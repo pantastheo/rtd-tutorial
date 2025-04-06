@@ -1,25 +1,25 @@
-Gene symbol,CACNA1C
-Gene mim,114205
-Indication,LQTS
-Referral indication,Long QT Syndrome (LQTS)
-Disease grouping,Familial Long QT Syndrome
-Disease name,CACNA1C-related Long QT syndrome
-Gene disease validity (ClinGen),moderate
-Allelic requirement,monoallelic_autosomal
-Inheritance,Autosomal dominant
-Inheritance modifiers,NA
-Disease-associated variant consequence,NA
-mechanism,NA
-mutation consequence flag,NA
-Restricted repertoire of pathogenic variants,NA
-Variant classes reported with evidence of pathogenicity,NA
-pmids,NA
-Disease accession,NA
-Curated date,NA
-Expert panel review date,NA
-Expert panel,NA
-organ specificity list,Heart/Cardiovasculature/Lymphatic
-panel,Cardiac
-prev symbols,NA
-hgnc id,NA
-g2p gene disease pair entry date,NA
+"Gene symbol","CACNA1C"
+"Gene mim","114205"
+"Indication","LQTS"
+"Referral indication","Long QT Syndrome (LQTS)"
+"Disease grouping","Familial Long QT Syndrome"
+"Disease name","CACNA1C-related Long QT syndrome"
+"Gene disease validity (ClinGen)","moderate"
+"Allelic requirement","monoallelic_autosomal"
+"Inheritance","Autosomal dominant"
+"Inheritance modifiers","NA"
+"Disease-associated variant consequence","NA"
+"mechanism","NA"
+"mutation consequence flag","NA"
+"Restricted repertoire of pathogenic variants","NA"
+"Variant classes reported with evidence of pathogenicity","NA"
+"pmids","NA"
+"Disease accession","NA"
+"Curated date","NA"
+"Expert panel review date","NA"
+"Expert panel","NA"
+"organ specificity list","Heart/Cardiovasculature/Lymphatic"
+"panel","Cardiac"
+"prev symbols","NA"
+"hgnc id","NA"
+"g2p gene disease pair entry date","NA"

@@ -8,12 +8,12 @@ DCS2
 ----
 
 .. csv-table::
-   :file: gene/DCS2.csv
+   :file: gene/DSC2.csv
    :widths: 15, 85
    :header-rows: 1
 
 .. csv-table::
-   :file: narrative/DCS2_narrative.csv
+   :file: narrative/DSC2_narrative.csv
    :widths: 15, 85
    :header-rows: 1
 
@@ -45,4 +45,3 @@ JUP
    :file: narrative/JUP_narrative.csv
    :widths: 15, 85
    :header-rows: 1
-   
