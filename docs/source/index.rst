@@ -8,7 +8,6 @@ Contents
 
    overview
    arvc
-   g2p_all.md
    usage
    api
    other
