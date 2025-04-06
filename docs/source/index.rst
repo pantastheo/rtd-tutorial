@@ -8,7 +8,7 @@ Contents
 
    overview
    arvc
-   g2p
+   g2p_all
    usage
    api
    other
