@@ -9,3 +9,4 @@ Contents
    overview
    usage
    api
+   other
