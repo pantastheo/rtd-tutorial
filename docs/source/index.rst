@@ -8,6 +8,7 @@ Contents
 
    overview
    arvc
+   g2p
    usage
    api
    other
