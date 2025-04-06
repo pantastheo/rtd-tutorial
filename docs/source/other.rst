@@ -9,6 +9,11 @@ probably do too). This table below shows the full list of variant
 classes mapped to each variant consequence.
 
 
+.. note::
+
+  Variant classes with a likelihood score of '3:possible', '4:probable' and '5:almost always' for the different disease associated variant consequences
+  See Tables 2 and 3 from Roberts et al.
+
 *Roberts AM, DiStefano MT, Rooney Riggs E, Josephs KS, Alkuraya FS,
 Amberger J, et al. Towards robust clinical genome interpretation:
 developing a consistent terminology to characterize disease-gene
