@@ -1,0 +1,25 @@
+Gene symbol,SCN5A
+Gene mim,600163
+Indication,BrS
+Referral indication,Brugada Syndrome (BrS)
+Disease grouping,Brugada Syndrome
+Disease name,SCN5A-related Brugada syndrome
+Gene disease validity (ClinGen),definitive
+Allelic requirement,monoallelic_autosomal
+Inheritance,Autosomal dominant
+Inheritance modifiers,Typified by incomplete penetrance
+Disease-associated variant consequence,altered gene product sequence;decreased gene product level
+mechanism,NA
+mutation consequence flag,restricted repertoire of mutations
+Restricted repertoire of pathogenic variants,Intronic variants with functional evidence: NM_000335.5(SCN5A):c.3228+551T>G (p.?)
+Variant classes reported with evidence of pathogenicity,splice_region_variant;splice_acceptor_variant;splice_donor_variant;missense_variant;inframe_deletion;inframe_insertion;stop_gained_NMD_triggering;frameshift_variant_NMD_triggering
+pmids,32850980;9521325;20564468;32533946;20031634;17075016;17442746;25905440;11748104;20129283;29959160;33164571;33131149;25829473;30203441;32893267;29798782;39391988
+Disease accession,MONDO:0011001
+Curated date,29.01.2021
+Expert panel review date,21.07.2021
+Expert panel,Channelopathy expert panel
+organ specificity list,Heart/Cardiovasculature/Lymphatic
+panel,Cardiac
+prev symbols,CMD1E
+hgnc id,10593
+g2p gene disease pair entry date,2022-04-25T12:45:00Z

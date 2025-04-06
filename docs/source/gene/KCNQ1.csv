@@ -1,0 +1,25 @@
+Gene symbol,KCNQ1
+Gene mim,607542
+Indication,LQTS
+Referral indication,Long QT Syndrome (LQTS)
+Disease grouping,Syndromic QT prolongation and cardiac arrhythmias
+Disease name,KCNQ1-related Jervell and Lange-Nielsen syndrome
+Gene disease validity (ClinGen),definitive
+Allelic requirement,biallelic_autosomal
+Inheritance,Autosomal recessive
+Inheritance modifiers,NA
+Disease-associated variant consequence,absent gene product;altered gene product sequence
+mechanism,NA
+mutation consequence flag,NA
+Restricted repertoire of pathogenic variants,NA
+Variant classes reported with evidence of pathogenicity,splice_acceptor_variant;splice_donor_variant;frameshift_variant;stop_gained;missense_variant;stop_gained_NMD_triggering;frameshift_variant_NMD_triggering;exon_loss_variant;complex_structural_alteration
+pmids,27041150;23591039;9020846;27868350;23392653;31983240;11226272;25187895
+Disease accession,MONDO:0024540
+Curated date,01.05.2021
+Expert panel review date,16.06.2021
+Expert panel,Channelopathy expert panel
+organ specificity list,Heart/Cardiovasculature/Lymphatic
+panel,Cardiac
+prev symbols,LQT;KCNA9
+hgnc id,6294
+g2p gene disease pair entry date,2022-04-25T12:45:00Z

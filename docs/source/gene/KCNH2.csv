@@ -1,0 +1,25 @@
+Gene symbol,KCNH2
+Gene mim,152427
+Indication,SQTS
+Referral indication,Short QT Syndrome (SQTS)
+Disease grouping,Classic SQTS
+Disease name,KCNH2-related Short QT syndrome
+Gene disease validity (ClinGen),definitive
+Allelic requirement,monoallelic_autosomal
+Inheritance,Autosomal dominant
+Inheritance modifiers,NA
+Disease-associated variant consequence,altered gene product sequence
+mechanism,NA
+mutation consequence flag,NA
+Restricted repertoire of pathogenic variants,NA
+Variant classes reported with evidence of pathogenicity,missense_variant
+pmids,29876509;21130771;30582453;30175559;29759541;29016797;9547387;18692916;14676148;25974115;7889573;30947366;30496390;19088443;30571592;7736582;29574456;21310316;15673388;15828882;31049424;28491588;25335996;19340359;31072576
+Disease accession,MONDO:0012312
+Curated date,21.07.2021
+Expert panel review date,21.07.2021
+Expert panel,Channelopathy expert panel
+organ specificity list,Heart/Cardiovasculature/Lymphatic
+panel,Cardiac
+prev symbols,LQT2
+hgnc id,6251
+g2p gene disease pair entry date,2022-04-25T12:45:00Z

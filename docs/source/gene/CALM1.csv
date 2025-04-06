@@ -1,0 +1,25 @@
+Gene symbol,CALM1
+Gene mim,114180
+Indication,LQTS
+Referral indication,Long QT Syndrome (LQTS)
+Disease grouping,Long QT syndrome with an atypical presentation
+Disease name,CALM1-related Long QT syndrome
+Gene disease validity (ClinGen),definitive
+Allelic requirement,monoallelic_autosomal
+Inheritance,Autosomal dominant
+Inheritance modifiers,Typically de novo
+Disease-associated variant consequence,altered gene product sequence
+mechanism,NA
+mutation consequence flag,NA
+Restricted repertoire of pathogenic variants,NA
+Variant classes reported with evidence of pathogenicity,missense_variant
+pmids,31170290;31983240;23388215;26969752
+Disease accession,MONDO:0014548
+Curated date,14.10.2020
+Expert panel review date,16.06.2021
+Expert panel,Channelopathy expert panel
+organ specificity list,Heart/Cardiovasculature/Lymphatic
+panel,Cardiac
+prev symbols,CALML2
+hgnc id,1442
+g2p gene disease pair entry date,2022-04-26T11:53:00Z

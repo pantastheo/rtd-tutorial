@@ -1,0 +1,25 @@
+Gene symbol,JUP
+Gene mim,173325
+Indication,ARVC
+Referral indication,Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Disease grouping,Rare familial disorder with ARVC
+Disease name,JUP-related Naxos disease
+Gene disease validity (ClinGen),strong
+Allelic requirement,biallelic_autosomal
+Inheritance,Autosomal recessive
+Inheritance modifiers,NA
+Disease-associated variant consequence,altered gene product sequence
+mechanism,NA
+mutation consequence flag,NA
+Restricted repertoire of pathogenic variants,NA
+Variant classes reported with evidence of pathogenicity,missense_variant;inframe_deletion;frameshift_variant_NMD_escaping
+pmids,25820315;21320868;25705887;17924338;10902626;11691526;20031617;21673311;32966140;8858175;20130592;28098346;15851108;8954745;31402444
+Disease accession,MONDO:0011017
+Curated date,12.12.2021
+Expert panel review date,05.01.2022
+Expert panel,Cardiomyopathy expert panel
+organ specificity list,Heart/Cardiovasculature/Lymphatic
+panel,Cardiac
+prev symbols,CTNNG
+hgnc id,6207
+g2p gene disease pair entry date,2022-04-25T12:45:00Z

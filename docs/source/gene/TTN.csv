@@ -1,0 +1,25 @@
+Gene symbol,TTN
+Gene mim,188840
+Indication,DCM
+Referral indication,Dilated Cardiomyopathy (DCM)
+Disease grouping,Familial dilated cardiomyopathy
+Disease name,TTN-related Dilated cardiomyopathy
+Gene disease validity (ClinGen),definitive
+Allelic requirement,monoallelic_autosomal
+Inheritance,Autosomal dominant
+Inheritance modifiers,Typified by incomplete penetrance; Typified by age-related onset
+Disease-associated variant consequence,altered gene product sequence;decreased gene product level
+mechanism,NA
+mutation consequence flag,restricted repertoire of mutations
+Restricted repertoire of pathogenic variants,Variants must occur in A-band or >90% percentage spliced in (PSI) exons. Pathogenic missense variants are very rare. Missense variants with segregation evidence: NM_001267550.2(TTN):c.2926T>C (p.Trp976Arg); NM_001267550.2(TTN):c.533C>A (p.Ala178Asp); NM_001267550.2(TTN):c.11674T>A (p.Cys3892Ser)
+Variant classes reported with evidence of pathogenicity,splice_acceptor_variant;splice_donor_variant;frameshift_variant;stop_gained;missense_variant;stop_gained_NMD_triggering;frameshift_variant_NMD_triggering;exon_loss_variant
+pmids,23418287;9826585;9817758;25759365;19789381;25589632;32160020;31849696;18765796;28045975;27625337;11788824;37253077;29316444;27869827;29238064;26084686;32013205;26315439;22335739
+Disease accession,MONDO:0011400
+Curated date,31.03.2021
+Expert panel review date,08.12.2021
+Expert panel,Cardiomyopathy expert panel
+organ specificity list,Heart/Cardiovasculature/Lymphatic
+panel,Cardiac
+prev symbols,CMD1G
+hgnc id,12403
+g2p gene disease pair entry date,2022-04-25T12:45:00Z
