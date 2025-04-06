@@ -14,7 +14,6 @@ DCS2
 
 .. csv-table::
    :file: narrative/DSC2_narrative.csv
-   :widths: 15, 85
    :header-rows: 1
 
 DSG2
@@ -27,7 +26,6 @@ DSG2
 
 .. csv-table::
    :file: narrative/DSG2_narrative.csv
-   :widths: 15, 85
    :header-rows: 1
 
 Rare familial disorder with ARVC
@@ -43,5 +41,4 @@ JUP
 
 .. csv-table::
    :file: narrative/JUP_narrative.csv
-   :widths: 15, 85
    :header-rows: 1
