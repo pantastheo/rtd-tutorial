@@ -8,6 +8,4 @@ Contents
 
    overview
    arvc
-   usage
-   api
    other
