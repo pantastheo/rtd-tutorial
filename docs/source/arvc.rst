@@ -15,7 +15,7 @@ DCS2
 Narrative
 ---------
 
-DSC2-related ARVC is due to **decreased gene product level or altered gene product sequence** due to a variety of mechanisms (e.g. null alleles, trafficking defects, impaired proteolytic processing, absence of or impaired protein-protein interactions) (PMID: 31028357; 23911551; NBK1131).
+ | DSC2-related ARVC is due to **decreased gene product level or altered gene product sequence** due to a variety of mechanisms (e.g. null alleles, trafficking defects, impaired proteolytic processing, absence of or impaired protein-protein interactions) (PMID: 31028357; 23911551; NBK1131).
  | Loss of function is the likely disease mechanism. ClinGen found there was some evidence to support haploinsufficiency as a mechanism. https://search.clinicalgenome.org/kb/gene-dosage/HGNC:3036.
  | Autosomal dominant inheritance with incomplete penetrance is the most common mode of transmission (PMID: 21636032; 33831308). Homozygous and compound heterozygous variants have also been described in association with ARVC with or without cutaneous features (PMID: 26310507; 23863954; 24793512; 24070718; 34400560). In some cases, these appear to reflect autosomal recessive inheritance (PMID 24793512; 23863954, 33831308). Instances of digenic inheritance have been identified with DSC2 variants along with other desmosomal gene pathogenic variants (PMID: 24070718).
  | A number of DSC2 variants have been reported in the literature including nonsense, frameshift, splice, missense and inframe insertions and deletions (NBK1131; 17033975; 17963498; 17186466; 20031616; 19863551; 31402444).
@@ -33,10 +33,10 @@ Narrative
 ---------
 
 DSG2-related ARVC is due to **decreased gene product level or altered gene product sequence** due to a variety of mechanisms.  Much of the underlying pathogenesis of DSG2 pathogenic variants is still unknown; it is believed that loss of DSG2 compromises cell-to-cell adhesion between cardiomyocytes (PMID: 26085008; NBK1131). There is also work revealing that desmosomal variants can reduce canonical Wnt signaling and activating Wnt with a GSK3B inhibitor can block disease pathogenesis (PMID: 16823493; PMID: 27170944).
- | The usual mode of inheritance is **autosomal dominant characterized by incomplete penetrance** (PMID: 21636032; 33831308). Compound heterozygous and homozygous variants have been described. In some families, heterozygous carriers of these variants were not affected suggesting **autosomal recessive inheritance** (PMID: 33917638; 34400560; 24070718; 33831308; 30454721). Patients with >1 variant appear to have a more severe phenotype (PMID: 25616645; PMID: 30790397).
- | 
- | The majority of DSG2 variants are rare missense variants with unknown significance/unknown mechanism of pathogenicity. In addition, nonsense, frameshift, insertions, deletions, and splice site variants have all been described (PMID: 16505173; NBK1131; 30790397; 27532257; 33917638).
- | DSG2-related ARVC appears to be characterised by an increased risk of biventricular involvement and heart failure when compared to PKP2-related ARVC (PMID: 34400560; 30790397).
+The usual mode of inheritance is **autosomal dominant characterized by incomplete penetrance** (PMID: 21636032; 33831308). Compound heterozygous and homozygous variants have been described. In some families, heterozygous carriers of these variants were not affected suggesting **autosomal recessive inheritance** (PMID: 33917638; 34400560; 24070718; 33831308; 30454721). Patients with >1 variant appear to have a more severe phenotype (PMID: 25616645; PMID: 30790397).
+
+The majority of DSG2 variants are rare missense variants with unknown significance/unknown mechanism of pathogenicity. In addition, nonsense, frameshift, insertions, deletions, and splice site variants have all been described (PMID: 16505173; NBK1131; 30790397; 27532257; 33917638).
+DSG2-related ARVC appears to be characterised by an increased risk of biventricular involvement and heart failure when compared to PKP2-related ARVC (PMID: 34400560; 30790397).
 
 Rare familial disorder with ARVC
 ********************************
